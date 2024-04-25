@@ -1,4 +1,4 @@
-# 3400/6400 - Movies web application
+
 
 BAIS:3400/6400 - homework using Azure App Services, Azure Database for MySQL, Azure Active Directory, and Azure Key Vault to create a database driven web application.
 
